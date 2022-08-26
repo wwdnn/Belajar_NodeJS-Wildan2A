@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwdnn/Belajar_NodeJS-Wildan2A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwdnn/Belajar_NodeJS-Wildan2A/issues"
+  },
+  "homepage": "https://github.com/wwdnn/Belajar_NodeJS-Wildan2A#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  }
+}
